@@ -1,0 +1,36 @@
+footer
+{
+    margin: 20px auto;
+    background-color: red;   
+    height: 150px;
+}
+.pie
+{
+     
+    padding: 3em 3px 3px 3px;
+    text-align: center;
+    font-size: 10px;
+   
+    
+}
+
+
+.img {
+    height: 300px; 
+    width: 400px;  
+}
+
+h1
+{
+    text-align: center;
+}
+
+#texto{
+    display: inline-block;
+    vertical-align: top;
+ 
+    
+   
+  }
+  
+ 
